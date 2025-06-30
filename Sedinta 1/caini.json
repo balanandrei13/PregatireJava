@@ -1,0 +1,17 @@
+[
+    {
+        "nrPicioare": 4,
+        "areZgarda": false,
+        "nume": "Rex"
+    },
+    {
+        "nrPicioare": 5,
+        "areZgarda": true,
+        "nume": "Azorel"
+    },
+    {
+        "nrPicioare": 4,
+        "areZgarda": true,
+        "nume": "Azorel"
+    }
+]

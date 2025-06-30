@@ -1,0 +1,6 @@
+Gaze naturale,persoane,140.5
+Apa calda,persoane,800
+Caldura,suprafata,350.7
+Gunoi,apartament, 100 
+Intretinere scara,apartament,55.8
+Reparatii acoperis,suprafata,1200
